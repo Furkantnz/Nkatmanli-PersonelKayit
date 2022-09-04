@@ -1,0 +1,6 @@
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\FURKAN\Desktop\SİLİNMESİN\A-Z Murat Yücedağ c#\Proje_NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb
